@@ -6,10 +6,24 @@ Docker Hack Day
 
 Nov. 3, 2015
 
+http://odewahn.github.io/introduction-to-carina/#/
+
+
+
+## About Me
+
+* CTO at [O'Reilly Media](https://www.oreilly.com/topics/data)
+* Founded our next generation publishing tools
+* Wrote
+  * [Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) (2,600+ stars on GitHub)
+  * [DevOps field guide](http://sites.oreilly.com/odewahn/dds-field-guide/) (Not as many)
+* [Docker as a media opportunity](https://www.oreilly.com/ideas/jupyter-at-oreilly)
+
 
 
 ## Carina by Rackspace
 
+* https://getcarina.com/
 * "Docker Swarm" as a service
 * Create up to 3 clusters with 3 nodes
 * Beta is free for first year
@@ -28,6 +42,10 @@ Nov. 3, 2015
 * Install `carina` client
 * Create a cluster
 * Run Docker
+
+
+
+## [But first, a quick GUI demo](https://getcarina.com/)
 
 
 
@@ -160,5 +178,7 @@ Name: e35d3516254c
 ## My project: carina-gui
 
 https://github.com/odewahn/carina-gui
+
+Golang tool with a [native UI](https://github.com/andlabs/ui) for managing Carina clusters.
 
 <img src="images/project-carina-gui.png"/>
