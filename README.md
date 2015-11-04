@@ -182,3 +182,19 @@ https://github.com/odewahn/carina-gui
 Golang tool with a [native UI](https://github.com/andlabs/ui) for managing Carina clusters.
 
 <img src="images/project-carina-gui.png"/>
+
+
+
+## A few more links
+
+* codecommunity.slack.com -- link Jonas mentioned
+
+* [Minimal containers for Go](https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/).  It you're doing microservices in Go (and you should!), read this article.  Get images < 10MB.
+
+* [Building Microservices](https://www.nginx.com/blog/building-microservices-free-ebook-oreilly-nginx/).  Free ebook sponsored by nginx
+
+* [Digital Ocean](https://www.digitalocean.com).  Jonas' $5 a month docker hosting provider.
+
+* [Hypriot](http://blog.hypriot.com/getting-started-with-docker-on-your-arm-device/).  Docker on Raspberry pi
+
+* [Interlock](https://github.com/ehazlett/interlock).  Service discovery tools for containers running on Swarm.
